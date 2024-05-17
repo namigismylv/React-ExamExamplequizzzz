@@ -1,0 +1,10 @@
+.table{
+    width: 80%;
+    margin:0 auto;
+    td{
+        vertical-align: middle;
+    }
+    td button{
+     margin-bottom: 25px;   
+    }
+}

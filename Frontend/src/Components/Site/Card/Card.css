@@ -1,0 +1,14 @@
+.card-body{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+}
+.card-title{
+    display: flex;
+    flex-direction: column;
+
+}
+.card-text-price{
+    margin-left: 70px;
+}

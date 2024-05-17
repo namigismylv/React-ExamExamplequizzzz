@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background:#404044;
+    padding: 30px 16px;
+    ul{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+    }
+}
+
+.header__left{
+    a{
+        font-weight: 600;
+        border: 2px solid #fff;
+        line-height: 1;
+        padding: 5px 10px;
+        color:#fff;
+        font-size:  20px;
+    }
+}
+.header__right{
+    a{
+        color:#fff;
+        font-size: 16px;
+    }
+}
